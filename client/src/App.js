@@ -26,3 +26,5 @@ const App = () => (
 );
 
 export default App;
+
+// wild card variables like :id need to be below any other hardcoded value otherwise the hardcoded value will not be read. 
